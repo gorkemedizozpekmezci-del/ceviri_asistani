@@ -1,0 +1,24 @@
+# Ekran Yakalama & Görüntü İşleme
+mss
+opencv-python
+numpy
+
+# OCR (Metin Tanıma)
+easyocr
+langdetect
+
+# Çeviri Motorları
+torch
+transformers
+sentencepiece
+google-genai
+deep-translator
+
+# Sesli Okuma (TTS) ve Mikrofon (STT)
+pyttsx3
+pyaudio
+SpeechRecognition
+
+# Global Kısayollar ve Sistem
+keyboard
+psutil
