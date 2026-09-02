@@ -1,0 +1,21 @@
+# Kişisel ayarlar ve gizli anahtarlar (asla GitHub'a yüklenmemeli)
+config.json
+apikey.txt
+*.key
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller çıktıları
+build/
+dist/
+*.spec
+
+# Sanal ortam
+venv/
+.venv/
+
+# Geçici ses dosyaları
+temp.mp3
